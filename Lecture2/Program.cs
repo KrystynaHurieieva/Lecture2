@@ -17,15 +17,10 @@
             var varVariableWithValue = "tt";
             char variable = 'd';
 
-            /*
-             * hjgjh
-             * lkjl
-             * lkj
-             */
-
             Console.WriteLine($"intVariableWithValue={intVariableWithValue}    ");
             Console.WriteLine("varVariableWithValue={0}     ", varVariableWithValue);
             Console.WriteLine("variable=" + variable + "   ");
+             // temp changes
 
             var firstVariable = Console.ReadLine();
 
